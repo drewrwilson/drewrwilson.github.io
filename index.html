@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<div class="tagline">
+  <p>My name is Drew. I'm passionate about <strong>social change</strong>. I <strong>make things</strong> that are <strong>digital</strong>, <strong>physical</strong>, and <strong>social</strong>.</p>
+</div>
+
+<!--
+<h2>Recent blog posts</h2>
+<div class="grid">
+
+  <ul class="entries">
+    {% for post in site.categories['blog'] %}
+
+
+    <li class="col-1-4" style="background-color:#e9e9e9; margin: 0 10px 10px 0">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <p style="float:right;">{{ post.date | date: "%B %d, %Y" }}</p>
+        <img src="{{ site.baseurl }}{{site.img_dir}}{{ post.thumbnail }}" />
+        <h3>{{ post.title }}</h3>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  <div class="centerBlock">
+    <a class="btn" href="/blog">More writing</a>
+  </div>
+</div>
+-->
+<section class="work">
+
+  <h2>Recent Projects</h2>
+
+  <div class="grid">
+
+    <ul class="entries">
+      {% for post in site.categories['featuredprojects'] limit:4 %}
+
+
+      <li class="col-1-2">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <img src="{{ site.baseurl }}assets/img/projects/{{ post.thumbnail }}" />
+          <h3>{{ post.title }}</h3>
+        </a>
+      </li>
+
+      {% endfor %}
+    </ul>
+
+  <div class="centerBlock">
+    <a class="btn" href="/projects">View all projects</a>
+  </div>
+
+</section>

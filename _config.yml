@@ -1,0 +1,15 @@
+title: "Drew Wilson"
+# baseurl: "/"
+collections:
+  projects:
+permalink: /:categories/:title
+img_dir: "/assets/img/"
+large_pic: "/assets/img/drew.jpg"
+contact:
+  twitter: "drewSaysGoVeg"
+  email: "literallydrew@drewrwilson.com"
+  github: "drewrwilson"
+  phone:
+  fax:
+yourname: Drew Wilson
+year: 2015

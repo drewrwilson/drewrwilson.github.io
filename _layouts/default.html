@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> {% if page.title %} {{ page.title }} | {% endif %} {{site.title}} </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}{{site.img_dir}}favicon.ico">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/custom.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css">
+    <script src="{{ site.baseurl }}/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="{{ site.baseurl }}/js/vendor/jquery-1.10.2.min.js"></script>
+    <script src="{{ site.baseurl }}/js/main.js"></script>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <div class="grid header">
+        <nav class="contact-links" style="text-align:right;">
+          <ul>
+            <li><a href="http://twitter.com/{{site.contact.twitter}}"><i class="fa fa-twitter fa-fw"></i> twitter</a> // </li>
+            <li><a href="http://github.com/{{site.contact.github}}"><i class="fa fa-github fa-fw"></i> github</a> // </li>
+            <li><a href="{{ site.baseurl }}/drewrwilson_public_key.asc"><i class="fa fa-key fa-fw"></i> PGP public key</a></li>
+          </ul>
+        </nav>
+        <div class="logo col-1-3">
+          <a href="{{ site.baseurl }}">
+            <p>{{ site.title }}</p>
+          </a>
+        </div>
+
+        <nav id="main-nav" class="main-nav col-2-3">
+
+          <a href="{{ site.baseurl }}/">Home</a>
+          <a href="{{ site.baseurl }}/about">About</a>
+          <a href="{{ site.baseurl }}/projects">Projects</a>
+          <a href="{{ site.baseurl }}/blog">Blog</a>
+          <a class="navlink-contact" href="{{ site.baseurl }}/contact">Contact</a>
+        </nav>
+      </div>
+
+      {{ content }}
+
+      <footer>
+        <p>{{site.yourname}} {{site.year}} //
+          <a href="https://twitter.com/{{site.contact.twitter}}"><i class="fa fa-twitter fa-fw"></i> @{{site.contact.twitter}}</a> //
+          <a href="{{ site.baseurl }}/drewrwilson_public_key.asc"><i class="fa fa-key fa-fw"></i> PGP public key</a>
+       {{site.license}}
+       </p>
+      </footer>
+
+
+  </body>
+</html>
