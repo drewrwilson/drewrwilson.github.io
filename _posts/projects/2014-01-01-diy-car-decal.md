@@ -10,7 +10,6 @@ link: http://www.instructables.com/id/Car-decal-sticker-made-with-a-vinyl-cutter
 tags: [maker, diy]
 categories:
 - projects
-- featuredprojects
 ---
 
 *vinyl car design for The Humane League*
@@ -37,7 +36,7 @@ I made this project at [TechShop](http://techshop.us), a maker space in San Fran
 ## Step-by-step
 I took the logo from The Humane League, I used live-trace in Adobe Illustrator to make a vector of the logo and then used a CNC vinyl cutter machine to score the vinyl paper. Next I used the exacto knive and dental tools to remove the negative of the design from the vinyl sheet. Then we covered the design with transfer sticker and we were ready to adhere the sticker to a car. Before sticking to the car, we used the rubbing alcohol to clean off any particulates.
 
-I published a detailed step-by-step guide [on instructables](http://www.instructables.com/id/Car-decal-sticker-made-with-a-vinyl-cutter/), which was then chosen to be an editor's pick featured project. 
+I published a detailed step-by-step guide [on instructables](http://www.instructables.com/id/Car-decal-sticker-made-with-a-vinyl-cutter/), which was then chosen to be an editor's pick featured project.
 
 ## 10 more
 After making it for San Francisco, Stephanie shared photos of her new stickers with directors of other offices of The Humane League. They commissioned me to make 10 stickers for offices in Seattle, Baltimore, Florida, and North Carolina.

@@ -13,7 +13,7 @@ images:
 thumbnail: pizza-box-laptop-stand-sm.jpg
 categories:
 - projects
-
+- featuredprojects
 ---
 
 I spend a good amount of time on my computer, so I made this cardboard laptop stand to raise a computer's screen to a more ergonomic position, making it more comfortable to use. Made by laser cutting recycled materials--a pizza box.
