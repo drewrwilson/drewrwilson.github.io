@@ -4,8 +4,10 @@ title: Countdown App
 description: "Easy to modify webpage that counts down tha days, hours, and minutes to an upcoming event. Used to promote the Code for America Summit, the New England VegFest, and Open Data Day 2015. "
 link: http://drewrwilson.github.io/Countdown-to-the-Summit/
 images:
-- code-for-america-2014-countdown.png
-thumbnail: code-for-america-2014-countdown.png
+- countdown/code-for-america-2014-countdown.png
+- countdown/countdown-nevegfest-2015.png
+- countdown/countdown-opendataday-germany-2015.png
+thumbnail: countdown/code-for-america-2014-countdown.png
 categories:
 - projects
 ---
