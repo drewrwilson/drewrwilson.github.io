@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: HandsUpWalkOut student walk-out campaign
+title: HandsUpWalkOut campaign
 description: Web application for coordinating a national campaign of student walk-out protests
 link: https://handsupwalkout.com
 images:
