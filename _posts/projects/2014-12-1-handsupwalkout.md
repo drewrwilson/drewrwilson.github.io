@@ -11,7 +11,7 @@ images:
 thumbnail: handsupwalkout/handsupwalkout-webpage-preview-sm.png
 categories:
 - projects
-
+- featuredprojects
 ---
 
 This web application used a collaboratively maintained google docs to automatically generate a campaign webpage for the HandsUpWalkOut day of action. It was used to coordinate over 100 actions across the US and was viewed over 100k times over two days.

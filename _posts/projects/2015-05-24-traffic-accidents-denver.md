@@ -9,7 +9,6 @@ thumbnail: traffic-accidents-sm.jpg
 gif: traffic-accidents-animated.gif
 categories:
 - projects
-- featuredprojects
 
 ---
 
