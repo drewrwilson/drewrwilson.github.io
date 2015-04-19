@@ -7,9 +7,12 @@ images:
 - nevegfest/2015-crowd-shot.jpg
 - nevegfest/2014-04-17-VEGFEST-vendor1.jpg
 - nevegfest/photo-of-poster-2015.jpg
+- nevegfest/nevegfest-poster-board.jpg
+- nevegfest/nevegfest-2015-webpage.png
 - nevegfest/new-england-vegfest-sticker-2015.png
 - nevegfest/2013-04-15-VEGFEST-crowd1.jpg
-thumbnail: nevegfest/dcu-marquee-sm.jpg
+- nevegfest/nevegfest-poster-fomu.jpg
+thumbnail: nevegfest/Marquee-DCU-Center-NEVegFest-2015-square.png
 categories:
  - projects
  - featuredprojects
