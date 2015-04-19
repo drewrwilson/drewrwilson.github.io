@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: HandsUpWalkOut Student walk-out protest
+title: HandsUpWalkOut student walk-out campaign
 description: Web application for coordinating a national campaign of student walk-out protests
 link: https://handsupwalkout.com
 images:
@@ -8,7 +8,7 @@ images:
 - handsupwalkout/handsupwalkout-cu-boulder.jpg
 - handsupwalkout/handsupwalkout-harvard-square.jpg
 - handsupwalkout/handsupwalkout-times-square.jpg
-thumbnail: handsupwalkout/handsupwalkout-fb.jpg
+thumbnail: handsupwalkout/handsupwalkout-webpage-preview-sm.png
 categories:
 - projects
 
