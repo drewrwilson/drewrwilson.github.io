@@ -4,13 +4,14 @@ title: Pizza Box Laptop Stand
 description: DIY laptop stand made by laser cutting a pizza box.
 link: https://www.etsy.com/listing/202511348/laptop-stand-made-from-a-pizza-box
 images:
-- pizza-box-laptop-stand-0.jpg
-- pizza-box-laptop-stand-1.jpg
-- pizza-box-laptop-stand-2.jpg
-- pizza-box-laptop-stand-3.jpg
-- pizza-box-laptop-stand-4.jpg
-- pizza-box-laptop-stand-5.jpg
-thumbnail: pizza-box-laptop-stand-sm.jpg
+- pizza-box-laptop-stand/pizza-box-laptop-stand-multi.png
+- pizza-box-laptop-stand/pizza-box-laptop-stand-0.jpg
+- pizza-box-laptop-stand/pizza-box-laptop-stand-1.jpg
+- pizza-box-laptop-stand/pizza-box-laptop-stand-2.jpg
+- pizza-box-laptop-stand/pizza-box-laptop-stand-3.jpg
+- pizza-box-laptop-stand/pizza-box-laptop-stand-4.jpg
+- pizza-box-laptop-stand/pizza-box-laptop-stand-5.jpg
+thumbnail: pizza-box-laptop-stand/pizza-box-laptop-stand-sm.jpg
 categories:
 - projects
 - featuredprojects
