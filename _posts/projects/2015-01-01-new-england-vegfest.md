@@ -19,15 +19,15 @@ categories:
 
 ---
 
-*annual vegetarian food festival with over 7,000 attendees, 100+ vendors, and run entirely by volunteers*
+[New England VegFest](https://NewEnglandVegFest.com) is an annual vegetarian food festival with over 7,000 attendees, 130 vendors, and run entirely by volunteers.
 
-I founded [VegWorcester](http://VegWorcester.com) in 2006, the organization that presents the festival. In 2010 I launched the [New England VegFest](https://NewEnglandVegFest.com)  and I remain involved as president of the non-profit organization.
+I founded [VegWorcester](http://VegWorcester.com) in 2006, the organization that presents the festival. In 2010 I launched the [New England VegFest](https://NewEnglandVegFest.com)  and I remain involved as a lead organizer and as president of the non-profit organization.
 
 ## Next one coming up on April 26, 2015
 
-The [New England VegFest](https://NewEnglandVegFest.com) is an annual vegetarian food festival with around 130 restaurants, businesses, and non-profit exhibitors. Thousands of attendees fill the convention center in Worcester, MA to sample the best vegetarian and vegan foods from across New England.
+Thousands of attendees fill the convention center in Worcester, MA to sample the best vegetarian and vegan foods from across New England.
 
-This free event is organized entirely by volunteers and funded through bake sales, individual donations, and event sponsorship. In 2014, the Mayor endorsed the festival and officially proclaimed the following week to be VegWeek.
+This free event is funded through bake sales, individual donations, and event sponsorship. In 2014, the Mayor endorsed the festival and officially proclaimed the following week to be VegWeek.
 
 ## Links
 
