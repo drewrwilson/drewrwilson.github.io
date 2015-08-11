@@ -9,6 +9,9 @@ layout: default
       <p>
         <em>{{ page.date | date: "%B %d, %Y" }}</em> <br>
       </p>
+      <div class="pull-right" style="padding-left:15px;padding-bottom:15px;">
+        <img src="{{site.img_dir}}{{ page.thumbnail }}" alt="" width="400px"/>
+      </div>
       <h2 class="content">{{page.title}}</h2>
       <p>
         {% for tag in page.tags %}
@@ -20,9 +23,6 @@ layout: default
         {{ page.teaser }}
       </p>
 
-      <div class="text-center">
-        <img src="{{site.img_dir}}{{ page.thumbnail }}" alt="" width="400px"/>
-      </div>
 
       {{ content }}
 
