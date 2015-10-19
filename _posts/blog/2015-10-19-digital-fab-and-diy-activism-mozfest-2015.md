@@ -10,7 +10,7 @@ categories:
 
 ## Laser-cutting Stencils, Screen-printing, CNC Wood Block Printing
 
-*[MozFest](https://2015.mozillafestival.org/) is Mozilla's huge annual participatory festival & conference about the future of the open web. It's a clusterfuck of creativity, activism and geekiness. This year MozFest is happening on **November 6-8, 2015** in London. Tickets are £45. Below is a quick description of one of two sessions that I'll be running during the festival.*
+*[MozFest](https://2015.mozillafestival.org/) is Mozilla's huge annual participatory festival & conference about the future of the open web. It's a clusterfuck of creativity, activism and geekiness. This year MozFest is happening on **November 6-8, 2015** in London. Below is a quick description of one of two sessions that I'll be running during the festival.*
 
 <div class="text-center">
 
