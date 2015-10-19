@@ -4,8 +4,6 @@ title: "Using Digital Fabrication to Make DIY Activist Gear - Session at MozFest
 thumbnail: /blog/digital-heart-stencil-thumbnail.jpg
 tags: [tech, activism, art]
 teaser: On Nov 6-8 I'll be at MozFest in London, doing a session on digital fabrication and using maker tools to make DIY activist gear. Join me to cut stencils and print t-shirts. Bring a blank t-shirt.
-images:
--
 categories:
 - blog
 ---
