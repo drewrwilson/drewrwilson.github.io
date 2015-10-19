@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+</div>
+
+<section class="single-project single-blog-post">
+    <div class="container">
+      <p>
+        <em>{{ page.date | date: "%B %d, %Y" }}</em> <br>
+      </p>
+      <h2 class="content">{{page.title}}</h2>
+      <p>
+        {% for tag in page.tags %}
+        <span class="tag">{{tag}}</span>
+        {% endfor %}
+      </p>
+
+      {{ content }}

@@ -211,3 +211,16 @@ section {
 .bio {
   font-size:26px;
 }
+
+.lead-in {
+  font-size:20px;
+}
+
+.single-blog-post img, .single-blog-post video {
+  width: 100%;
+  padding: 0% 5% 0% 5%;
+}
+.single-blog-post .caption {
+  padding: 0 5% 2% 5%;
+  font-style: italic;
+}
