@@ -50,7 +50,7 @@ A digital heart shirt printed by a laser-cut stencil, used by <a href="https://I
 ![Black Lives Matter stenciled posters](/assets/img/blog/black-lives-matter-stencil-posters.jpg)
 
 <div class="caption">
-Black Lives Matter activists using laser-cut stencils to print signs for their rally.
+Black Lives Matter activists using signs made from laser-cut stencils.
 </div>
 
 Hope to see you at this session! You can register for MozFest at: [https://2015.mozillafestival.org/](https://2015.mozillafestival.org/). Tickets are £45.
