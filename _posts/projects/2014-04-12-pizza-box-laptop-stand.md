@@ -14,7 +14,7 @@ images:
 thumbnail: pizza-box-laptop-stand/pizza-box-laptop-stand-sm.jpg
 categories:
 - projects
-- featuredprojects
+featured: true
 ---
 
 This laptop stand makes spending time on my computer more pleasant by raising the computer's screen to a more ergonomic position. I made it by laser cutting a pizza box.

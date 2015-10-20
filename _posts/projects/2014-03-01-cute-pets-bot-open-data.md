@@ -10,7 +10,7 @@ thumbnail: cutepets/cuties-twitter-bot-sm.jpg
 tags: [web, animals]
 categories:
 - projects
-- featuredprojects
+featured: true
 ---
 
 *Cute Pets is a twitter bot that shares photos and info about adoptable animals in shelters. Deployed in 21 cities across the US and also in Chemnitz, Germany.*
