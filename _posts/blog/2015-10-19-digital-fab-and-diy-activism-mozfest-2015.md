@@ -20,7 +20,7 @@ categories:
 
 ### Session Description:
 
-High tech manufacturing tools are becoming more accessible for do-it-yourselfers, makers and activists. You can often find lots of tools at local maker spaces that can be used to easily make large quantities of inexpensive activist gear. In this participatory session, you’ll learn about creative ways to create giant banners, laser-cut stencils so you can print your own t-shirts and banners, make custom vinyl stickers, how to use CNC machines to carve wood and other techniques.
+High tech manufacturing tools are becoming more accessible for do-it-yourselfers, makers and activists. You can often find tools at local maker spaces that can be used to easily make large quantities of inexpensive activist gear. In this participatory session, you’ll learn about creative ways to create giant banners, laser-cut stencils so you can print your own t-shirts and banners, make custom vinyl stickers, how to use CNC machines to carve wood and other techniques.
 
 
 <div class="text-center">
