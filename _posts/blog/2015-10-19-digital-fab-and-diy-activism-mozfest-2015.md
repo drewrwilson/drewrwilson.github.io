@@ -10,13 +10,16 @@ categories:
 
 ## Laser-cutting Stencils, Screen-printing, CNC Wood Block Printing
 
-*[MozFest](https://2015.mozillafestival.org/) is Mozilla's huge annual participatory festival & conference about the future of the open web. It's a clusterfuck of creativity, activism and geekiness. This year MozFest is happening on **November 6-8, 2015** in London. Below is a quick description of one of two sessions that I'll be running during the festival.*
+*[MozFest](https://2015.mozillafestival.org/) is Mozilla's huge annual participatory festival & conference about the future of the open web. It's a clusterfuck of creativity, activism and geekiness. This year MozFest is happening on **November 6-8, 2015** in London. Below is a quick description of one of two sessions that I'll be running during the festival. Also check out my other session: [Using Digital Fabrication to Make DIY Activist Gear](blog/day-of-action-webapp-mozfest-2015/)*
 
 <div class="text-center">
 
 <img src="/assets/img/blog/stencil-examples.jpg" />
 
 </div>
+
+### When? Sunday November 8, 2015 at 4pm
+**Where?** Taking place in the Mozilla Learning area at MozFest
 
 ### Session Description:
 
@@ -55,4 +58,4 @@ Black Lives Matter activists using signs made from laser-cut stencils.
 
 Hope to see you at this session! You can register for MozFest at: [https://2015.mozillafestival.org/](https://2015.mozillafestival.org/). Tickets are £45.
 
-**I'll post my other MozFest session soon. It's called "Day of Action: A Web App to Facilitate Decentralized Collective Action".**
+**And please check out my other session at MozFest! It's called ["Day of Action: A Web App to Facilitate Decentralized Collective Action"](/blog/digital-fab-and-diy-activism-mozfest-2015/).** It's about using laser cutters to make stencils for activism.**
