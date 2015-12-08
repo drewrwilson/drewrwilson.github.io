@@ -18,7 +18,7 @@ Do you know that 90's nickelodeon show, Doug? Do you remember the band from the 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/112702129&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-I wanted to make Killer Tofu a reality, so for this project I used a laser-cutter to burn a design onto tofu. I’ve seen people do something similar with meat and I didn’t want the vegetarians to feel left out.
+I wanted to make Killer Tofu a reality, so for this project I used a laser-cutter to burn a design onto tofu. 
 
 ♫ Oh ee oh, Killer Tofu ♫
 
