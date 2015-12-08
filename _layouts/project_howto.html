@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+</div>
+
+<section class="single-project">
+    <div class="container">
+      <div style="width:100%;min-height:320px;background:url('{{ site.baseurl }}/assets/img/projects/{{ page.heading }}');background-size:cover;background-repeat: no-repeat;
+">
+        <h1 class="content" style="padding-top:250px;padding-left:20px; font-size:3em; color:#fff">{{page.title}}</h1>
+      </div>
+      <p>
+        {{page.publish_date}}
+      </p>
+      {% for tag in page.tags %}
+      <span class="tag">{{tag}}</span>
+      {% endfor %}
+
+
+      {{ content }}
+
+      <br><br><br>

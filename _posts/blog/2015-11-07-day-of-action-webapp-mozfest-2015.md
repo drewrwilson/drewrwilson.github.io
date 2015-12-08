@@ -10,8 +10,8 @@ categories:
 
 *[MozFest](https://2015.mozillafestival.org/) is Mozilla's huge annual participatory festival & conference about the future of the open web. It's a clusterfuck of creativity, activism and geekiness. This year MozFest is happening on **November 6-8, 2015** in London. Below is a quick description of one of two sessions that I'll be running during the festival. And also please check out my other session: [Using Digital Fabrication to Make DIY Activist Gear](/blog/digital-fab-and-diy-activism-mozfest-2015/)*
 
-### When? Saturday November 7, 2015
-**Where?** Taking place in the Digital Citizenship area at MozFest
+### When? Saturday November 7, 2015 @ 12:45pm
+**Where?** Taking place in the Digital Citizenship area at MozFest (4th floor)
 
 ### Session Description:
 
