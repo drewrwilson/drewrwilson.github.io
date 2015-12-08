@@ -18,7 +18,7 @@ Do you know that 90's nickelodeon show, Doug? Do you remember the band from the 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/112702129&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-I wanted to make Killer Tofu a reality, so for this project I used a laser-cutter to burn a design onto tofu. 
+I wanted to make Killer Tofu a reality, so for this project I used a laser-cutter to burn a design onto tofu.
 
 ♫ Oh ee oh, Killer Tofu ♫
 
@@ -64,7 +64,7 @@ I wanted to make Killer Tofu a reality, so for this project I used a laser-cutte
 
 ### Place the tofu between the two cutting boards and then place some heavy books on top.
 
-Leave it pressing for a few hours. How do you know how many books to put on top? The goal is to press out some water from the tofu. You don't want your tofu to come apart, so if you start to see cracks in it take some weigh off the cutting board. By drying the tofu, we're making it more likely that the laser will be able to burn the skin. Also, it makes the tofu have a better consistency when you eat it. If you're planning to fry your tofu, you should always press it first.
+Leave it pressing for a few hours. How do you know how many books to put on top? The goal is to press out some water from the tofu. You don't want your tofu to come apart, so if you start to see cracks forming remove a book or two. By drying the tofu, we're making it easier for the laser to burn the skin. Too mych water will make it difficult to burn the tofu. Also, pressing tofu makes it have a better consistency when you eat it. If you're planning to fry your tofu, you should always press it first.
 
 ![press tofu](/assets/img/projects/killer-tofu/killer-tofu-06.jpg)
 
@@ -72,7 +72,7 @@ Leave it pressing for a few hours. How do you know how many books to put on top?
 
 ![press tofu and even more](/assets/img/projects/killer-tofu/killer-tofu-09.jpg)
 
-## Step 4: Draw your design
+## Step 4: Draw the design
 
 I used Adobe Illustrator to create my design because my laser cutter requires an SVG file, which is easy to export from Illustrator.
 
@@ -81,7 +81,7 @@ I used Adobe Illustrator to create my design because my laser cutter requires an
 
 ## Step 5: Place tofu in laser cutter
 
-In the laser cutter, place a paper towel on the grate with your tofu on top.
+In the laser cutter, place a paper towel on the grate and your tofu on top.
 
 ![place in laser cutter](/assets/img/projects/killer-tofu/killer-tofu-18.jpg)
 
