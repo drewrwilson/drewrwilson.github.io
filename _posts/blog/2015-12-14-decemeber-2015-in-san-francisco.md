@@ -219,4 +219,4 @@ San Francisco in 2015 is an extreme place. There are many profound things you co
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Late for a video call like out of a some scifi movie from the 80s</p>&mdash; Drew (@drewSaysGoVeg) <a href="https://twitter.com/drewSaysGoVeg/status/676467744540241920">December 14, 2015</a></blockquote>
 
-Then I went inside where I work, sat on a firm couch. I opened my laptop and programmed computers. I programmed computers that aren't in San Francisco&mdash;I don't actually know where these computers are located. They are in data center somewhere. Maybe Utah. Or maybe they're near Los Angeles. It's hard to know for sure.
+Then I went inside where I'm working for the day, sat on a firm couch. Opened my laptop and programmed computers. I programmed computers that aren't in San Francisco&mdash;I don't actually know where these computers are located. They are in data center somewhere. Maybe Utah. Or maybe they're near Los Angeles. It's hard to know for sure.
