@@ -9,7 +9,7 @@ categories:
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-San Francisco in 2015 is an extreme place. There are many profound thoughts that could be shared about the city during this current cultural moment, but I'm not making those kinds of statements here. These are my small thoughts and my small observations as I walked from Duboce Park down Market Street to roughly 5th & Howard Street.
+San Francisco in 2015 is an extreme place. There are many profound thoughts that could be said about the city during this current cultural moment, but I'm not making those kinds of statements here. These are my small thoughts and my small observations as I walked from Duboce Park down Market Street to roughly 5th & Howard Street.
 
 *So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. Ich bin ausgewesen. Ich habe gesehen:*
 
