@@ -11,7 +11,15 @@ categories:
 
 San Francisco in 2015 is an extreme place. There are many profound thoughts that could be said about the city during this current cultural moment, but I'm not making those kinds of statements here. These are my small thoughts and my small observations as I walked from Duboce Park down Market Street to roughly 5th & Howard Street.
 
-*So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. Ich bin ausgewesen. Ich habe gesehen:*
+<blockquote>
+"So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. Ich bin ausgewesen. Ich habe gesehen:"
+
+<div style="text-align: right;">
+
+<em>Rilke, Die Aufzeichnungen des Malte Laurids Brigge</em>
+
+</div>
+</blockquote>
 
 *So, here is where people have come to live. I'd have thought it more a place to die. I went out. I saw:*
 
@@ -211,4 +219,4 @@ San Francisco in 2015 is an extreme place. There are many profound thoughts that
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Late for a video call like out of a some scifi movie from the 80s</p>&mdash; Drew (@drewSaysGoVeg) <a href="https://twitter.com/drewSaysGoVeg/status/676467744540241920">December 14, 2015</a></blockquote>
 
-I went inside the building where I was working for the day. I sat on a firm couch. I opened my laptop and I programmed computers. I programmed computers that aren't in San Francisco&mdash;I don't actually know where these computers are located. They are in data center somewhere. Maybe Utah. Or maybe they're near Los Angeles. It's hard to know for sure.
+Then I went inside where I work, sat on a firm couch. I opened my laptop and programmed computers. I programmed computers that aren't in San Francisco&mdash;I don't actually know where these computers are located. They are in data center somewhere. Maybe Utah. Or maybe they're near Los Angeles. It's hard to know for sure.
