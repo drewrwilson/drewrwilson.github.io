@@ -1,0 +1,26 @@
+
+.image-wrap {
+  position: relative;
+  min-height: 600px;
+  overflow: hidden;
+}
+
+.header-img {
+  position: absolute;
+  width: 100%;
+  min-height: 600px;
+  -webkit-transform: translate3d(0, 0, 0);
+}
+.title-etc {
+  margin: 0 auto;
+  margin-top: 20%;
+  max-width: 750px;
+  color: #fff;
+}
+.focus-post-date{
+  font-style: italic;
+}
+body {
+  font-size: 1.2em;
+  font-family: 'Antic Didone', serif;
+}

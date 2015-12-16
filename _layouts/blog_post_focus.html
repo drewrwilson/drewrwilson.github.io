@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> {% if page.title %} {{ page.title }} | {% endif %} {{site.title}} </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}{{site.img_dir}}favicon.ico">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/custom.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/blog_focus.css">
+
+    <link href='https://fonts.googleapis.com/css?family=Antic+Didone' rel='stylesheet' type='text/css'>
+
+  </head>
+  <body>
+    <div class="image-wrap">
+      <div class="header-img" style="background:url(/assets/img/blog/walk-through-sf-lg.jpg) no-repeat center center; background-size: cover;">
+        <div class="title-etc">
+          <h1>{{page.title}}</h1>
+          <p class="focus-post-date">{{ page.date | date: "%B %d, %Y" }}
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+
+      <section class="single-project single-blog-post content">
+          <div class="container">
+            <p>
+              {% for tag in page.tags %}
+              <span class="tag">{{tag}}</span>
+              {% endfor %}
+            </p>
+
+            {{ content }}
+
+
+      <footer>
+        <p>{{site.yourname}} {{site.year}} //
+          <a href="https://twitter.com/{{site.contact.twitter}}"><i class="fa fa-twitter fa-fw"></i> @{{site.contact.twitter}}</a> //
+          <a href="{{ site.baseurl }}/drewrwilson_public_key.asc"><i class="fa fa-key fa-fw"></i> PGP public key</a>
+       {{site.license}}
+       </p>
+      </footer>
+      <script src="{{ site.baseurl }}/js/vendor/modernizr-2.8.3.min.js"></script>
+      <script src="{{ site.baseurl }}/js/vendor/jquery-1.11.3.min.js"></script>
+      <script src="{{ site.baseurl }}/js/main.js"></script>
+
+      <!-- <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-1111502-22', 'auto');
+        ga('send', 'pageview');
+
+      </script> -->
+      <script type="text/javascript">
+      function fader() {
+        var r = $('.blurred'),
+          wh = $(window).height(),
+          dt = $(document).scrollTop(),
+          elView, opacity;
+
+        // Loop elements with class "blurred"
+        r.each(function() {
+          elView = wh - ($(this).offset().top - dt + 200);
+          if (elView > 0) { // Top of DIV above bottom of window.
+            opacity = 1 / (wh + $(this).height()) * elView * 2
+            if (opacity < 1) // Bottom of DIV below top of window.
+              $(this).css('opacity', opacity);
+          }
+        });
+      }
+
+      </script>
+
+  </body>
+</html>
