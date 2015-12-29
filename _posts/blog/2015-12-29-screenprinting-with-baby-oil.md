@@ -253,7 +253,7 @@ Now to put the final touches on these cards, I folded them and trimmed them down
 
 Now we’re all done with the cards. Now it’s time to write them and mail them out to friends.
 
-![final card](/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-first-print.jpg)
+![final card](/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-final-purple.jpg)
 
 # Pros and Cons of the Mineral Oil Technique
 
