@@ -6,6 +6,10 @@ tags: [diy, art, screenprinting]
 teaser: "Instead of using a transparency to transfer a design to a screen, I experimented with using regular paper soaked in baby oil. Photos & notes."
 headerimg: mineral-oil-screenprinting/mineral-oil-screenprinting-header-sm.jpg
 overlaytitle: false
+og:
+  image: https://drewrwilson.com/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-fb-preview1200x1200.jpg #best for this to be 1200x1200 px
+  type: article
+  url: https://drewrwilson.com/blog/screenprinting-with-baby-oil
 categories:
 - blog
 ---
