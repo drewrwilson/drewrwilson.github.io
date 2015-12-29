@@ -16,7 +16,7 @@ categories:
 
 # Screen Printing Using the Baby Oil Technique. Step-by-Step Notes & Photos
 
-## While doing a small print-run of [Pizza Week](https://pizzaweek.net) holiday cards, I experimented with a new technique for transferring a design to a screen. Instead of using a transparency to transfer the design into a screen, I used a home printer, regular white paper and mineral oil. Below are some notes, photos and a step-by-step recap of the process.
+## While doing a small print-run of [Pizza Week](https://pizzaweek.net) holiday cards, I experimented with a new technique for transferring a design to a screen. Instead of using a transparency to transfer the design into a screen, I used a home printer, regular white paper and baby oil. Below are some notes, photos and a step-by-step recap of the process.
 
 **Transparencies vs oiled paper:** Normally I make a screen by printing a design onto a transparency, then transfer the image to a screen that is coated in photo emulsion by exposing it to light — wherever the light hits, the photo emulsion cures and hardens and any parts of the screen that are covered by the black ink on the transparency stays soft and can easily be washed out with water. The result is a detailed design burned into a screen, which can then be used to print on fabric or paper. This time I used a slightly different technique for transferring the image, involving baby oil.
 
