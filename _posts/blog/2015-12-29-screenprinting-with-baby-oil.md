@@ -177,7 +177,7 @@ There is a lot of area on the screen that is not covered by emulsion. Without em
 
 Make sure to cover all the empty spots.
 
-![covered with tape](/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-printing-setup-sm.jpg)
+![covered with tape](/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-taping-02-sm.jpg)
 
 # Choose color, choose inks
 
