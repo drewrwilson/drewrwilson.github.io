@@ -6,6 +6,11 @@ tags: []
 teaser: I walked from Duboce Park to Howard Street and wrote what I saw and what I thought
 headerimg: walk-through-sf-lg.jpg
 overlaytitle: true
+og:
+  image: https://drewrwilson.com/assets/img/blog/walk-through-sf-1200x1200.jpg #best for this to be 1200x1200 px
+  type: article
+  url: https://drewrwilson.com/blog/decemeber-2015-in-san-francisco/
+
 categories:
 - blog
 ---
