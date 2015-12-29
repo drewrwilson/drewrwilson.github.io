@@ -9,7 +9,7 @@ overlaytitle: false
 og:
   image: https://drewrwilson.com/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-fb-preview1200x1200.jpg #best for this to be 1200x1200 px
   type: article
-  url: https://drewrwilson.com/blog/screenprinting-with-baby-oil
+  url: https://drewrwilson.com/blog/screenprinting-with-baby-oil/
 categories:
 - blog
 ---
