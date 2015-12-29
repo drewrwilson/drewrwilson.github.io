@@ -4,6 +4,8 @@ title: "It is December 2015. I walked down Market Street in San Francisco. This 
 thumbnail: /blog/walk-through-sf-thumbnail.png
 tags: []
 teaser: I walked from Duboce Park to Howard Street and wrote what I saw and what I thought
+headerimg: walk-through-sf-lg.jpg
+overlaytitle: true
 categories:
 - blog
 ---
