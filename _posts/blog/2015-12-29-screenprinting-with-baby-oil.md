@@ -16,7 +16,7 @@ categories:
 
 # Screen Printing Using the Baby Oil Technique. Step-by-Step Notes & Photos
 
-## While doing a small print-run of [Pizza Week](https://pizzaweek.net) holiday cards, I experimented with a new technique for transferring a design to a screen. Instead of using a transparency to transfer the design into a screen, I used a home printer, regular white paper and baby oil. Below are some notes, photos and a step-by-step recap of the process.
+## While doing a small print-run of [Pizza Week](https://pizzaweek.net) holiday cards, I experimented with a new technique for transferring a design to a screen. Instead of using a transparency, I used a home printer, regular white paper and baby oil. Below are some notes, photos and a step-by-step recap of the process.
 
 **Transparencies vs oiled paper:** Normally I make a screen by printing a design onto a transparency, then transfer the image to a screen that is coated in photo emulsion by exposing it to light — wherever the light hits, the photo emulsion cures and hardens and any parts of the screen that are covered by the black ink on the transparency stays soft and can easily be washed out with water. The result is a detailed design burned into a screen, which can then be used to print on fabric or paper. This time I used a slightly different technique for transferring the image, involving baby oil.
 
@@ -155,7 +155,7 @@ The design should start to become visible within a couple minutes. If the design
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxAbWA8UHuc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-You’re done washing out the screen once the design is entirely visible and there is no emulsion left in the places where you intend to print.
+You’re done washing out the screen once the design is entirely visible and there is no emulsion left in the places where you intend to print. It’s a good idea to use a little soap while cleaning the screen to get rid of any remaining baby oil. Dish soap is ideal because it removes grease quickly, but bathroom soap works too.
 
 ![hey, you look pretty good for a washed out screen](/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-washing-out-done-sm.jpg)
 
