@@ -25,8 +25,8 @@ I made this tool for organizers who have some technical knowledge about github a
 
 **Who uses countdown?** *Code for America* uses the countdown for their annual civic tech conference. *Open Knowledge Foundation* used it to get a buzz going about their German Open Data Day events. *New England VegFest* uses it to promote an annual vegetarian food festival.
 
-## How to redeploy
-A step-by-step howto guide is listed on the [github page](https://github.com/drewrwilson/countdown-to-new-england-vegfest) for the project, but essentially all you need to do is copy the project on github and use the config file to add the specific information about your event (date, location, name, logos). After doing that you'll have a countdown hosted on github pages. You can also have your own custom domain for the countdown.
+## How to use this
+A step-by-step howto guide is listed on the [github page](https://github.com/drewrwilson/countdown) for the project, but essentially all you need to do is copy the project on github and use the config file to add the specific information about your event (date, location, name, logos). After doing that you'll have a countdown hosted on github pages. You can also have your own custom domain for the countdown.
 
 ## Tools used
  * github.io pages
