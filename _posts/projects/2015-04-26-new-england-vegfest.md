@@ -16,7 +16,7 @@ images:
 thumbnail: nevegfest/Marquee-DCU-Center-NEVegFest-2015-square.png
 categories:
  - projects
- - featuredprojects
+ featured: true
 
 ---
 
