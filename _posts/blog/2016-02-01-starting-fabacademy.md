@@ -7,6 +7,7 @@ teaser: I'm taking a five-month course on digital fabrication, called FabAcademy
 categories:
 - blog
 ---
+![[]](/assets/img/blog/make-everything.jpg)
 
 This week I took my first class in a five-month course in digital fabrication called [FabAcademy](http://fabacademy.org). This global program is running concurrently at makerspaces around the world and coordinated by the [FabFoundation](http://www.fabfoundation.org). I'm participating in this program in Providence, Rhode Island at [AS220](http://www.as220.org/)--a DIY art organization with a maker space, a community printshop, a media lab, and whole lot of other programs and spaces.
 
