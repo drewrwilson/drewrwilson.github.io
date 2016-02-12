@@ -12,7 +12,7 @@ categories:
 *I made [a video podcast of all the lectures from Fab Academy 2016](https://drewrwilson.com/fabacademypodcast). This is a quick explanation of how I automated it.*
 
 
-Each week there are two new [FabAcademy](http://fabacademy.org/) lectures and two lab days. Every Wednesday morning Professor Neil Gershenfeld gives a lecture on topic for the week and on Mondays there's a guest lecture from a prominent member of the maker movement. Both lectures are live-streamed, but it's often difficult for me to participate because they happen during the day, when I need to be at work. I wanted to be able to subscribe to the class videos, so I made it into an iTunes-compatible podcast: [FabAcademy 2016 Video Podcast](https://drewrwilson.com/fabacademypodcast). This is a recap of how the podcast and how I automated parts of it.
+Each week there are two new [FabAcademy](http://fabacademy.org/) lectures and two lab days. Every Wednesday morning Professor Neil Gershenfeld gives a lecture on the topic for the week and on Mondays there's a guest lecture from a prominent member of the maker movement. Both lectures are live-streamed, but it's often difficult for me to participate because they happen during the day, when I need to be at work. I wanted to be able to subscribe to the class videos, so I made it into an iTunes-compatible podcast: [FabAcademy 2016 Video Podcast](https://drewrwilson.com/fabacademypodcast). This is a recap of how the podcast and how I automated parts of it.
 
 Before I forget, you can [subscribe to FabAcademy 2016 via iTunes](https://itunes.apple.com/us/podcast/fabacademy-2016-podcast/id1082584132?mt=2) or [via RSS](https://drewrwilson.com/fabacademypodcast/podcast.rss).
 
