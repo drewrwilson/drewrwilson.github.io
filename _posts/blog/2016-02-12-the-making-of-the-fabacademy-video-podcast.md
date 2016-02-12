@@ -9,7 +9,8 @@ categories:
 
 ---
 
-*I'm doing a 5-month course on digital fabrication called FabAcademy. [See my other writing about the course and some projects that I created during it](https://drewrwilson.com/fabacademy/).*
+*I made [a video podcast of all the lectures from Fab Academy 2016](https://drewrwilson.com/fabacademypodcast). This is a quick explanation of how I automated it.*
+
 
 Each week there are two new [FabAcademy](http://fabacademy.org/) lectures and two lab days. Every Wednesday morning Professor Neil Gershenfeld gives a lecture on topic for the week and on Mondays there's a guest lecture from a prominent member of the maker movement. Both lectures are live-streamed, but it's often difficult for me to participate because they happen during the day, when I need to be at work. I wanted to be able to subscribe to the class videos, so I made it into an iTunes-compatible podcast: [FabAcademy 2016 Video Podcast](https://drewrwilson.com/fabacademypodcast). This is a recap of how the podcast and how I automated parts of it.
 
@@ -61,3 +62,6 @@ Another option would be to ask Fab Foundation to be in charge of this podcast. I
 ## Subscribe!
 
 Ok, now that you know how this is made, why not subscribe to the [FabAcademy 2016 Video Podcast](https://drewrwilson.com/fabacademypodcast)? You can [subscribe on iTunes](https://itunes.apple.com/us/podcast/fabacademy-2016-podcast/id1082584132?mt=2) or directly using [the podcast's RSS feed](https://drewrwilson.com/fabacademypodcast/podcast.rss)
+
+
+*I'm doing a 5-month course on digital fabrication called FabAcademy. [See my other writing about the course and some projects that I created during it](https://drewrwilson.com/fabacademy/).*
