@@ -39,7 +39,7 @@ There are four steps in this script. At this point, this is not entirely automat
 
 **So, how do we download them?** For both platforms I needed to come up with an alternative way to download the videos and upload them to another server. To download the videos, I used [youtube-dl](https://github.com/fent/node-youtube-dl), the NodeJS package that helps grab videos from streams. I don't know exactly how the tool works internally, but my understanding is that it opens multiple connections to the video starting at different parts and simultaneously captures chunks of the stream. After all the chunks are downloaded individually, youtube-dl merges all the files and outputs a single video file.
 
-![](assets/img/blog/downloading-fabacademy-video.jpg)
+![](/assets/img/blog/downloading-fabacademy-video.jpg)
 
 Youtube-dl has variety of options for video format, and options for which meta-data to save from the video. The short story is that this package allowed me to download a youtube video or a vimeo video to an mp4 using NodeJS. I wrote a NodeJS script that accepts two parameters when you run it: `a link to the video file, eg https://vimeo.com/153262283` and `a destinations file eg fab-academy-video-01.mp4`. This script is configured to download the highest quality version and save it as an `mp4` file. I chose mp4 because iTunes accepts this format and it's also compatible with most smart phones. Using this method the filesize is relatively large--around 400Mb or 500Mb per video--but I think the higher quality is necessary because Professor Gershenfeld often shows slides which have small text during the lecture. The higher quality video is worth it, even if the download may take a little longer.
 
