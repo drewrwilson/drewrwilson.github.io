@@ -15,7 +15,7 @@ Each week there are two new [FabAcademy](http://fabacademy.org/) lectures and tw
 
 Before I forget, you can [subscribe to FabAcademy 2016 via iTunes](https://itunes.apple.com/us/podcast/fabacademy-2016-podcast/id1082584132?mt=2) or [via RSS](https://drewrwilson.com/fabacademypodcast/podcast.rss).
 
-![](/assets/img/blog/fab-academy-podcast.jpg)
+[![](/assets/img/blog/fab-academy-podcast.jpg)](https://drewrwilson.com/fabacademy/)
 
 ## How does this work?
 
