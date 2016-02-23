@@ -1,92 +1,117 @@
 ---
-published: false
+published: true
 layout: blog_post_focus
-title: "Over-Engineering a name-tag with a laser cutter and a vinyl cutter"
-thumbnail: #/blog/mineral-oil-screenprinting/pizza-week-card-thumbnail.jpg
+title: "How to make name tags with a laser cutter & vinyl cutter"
+thumbnail: /blog/laser-cut-name-badge/laser-badge-thumbnail.jpg
 tags: [diy, art, fabacademy]
 teaser: "Here's how I laser cut a name tag"
-headerimg: mineral-oil-screenprinting/mineral-oil-screenprinting-header-sm.jpg
+headerimg: laser-cut-name-badge/00-header.jpg
 overlaytitle: false
+overlaycolor: "rgba(0,0,0,0.8)"
 og:
-  image: #https://drewrwilson.com/assets/img/blog/mineral-oil-screenprinting/pizza-week-card-fb-preview1200x1200.jpg #best for this to be 1200x1200 px
+  image: https://drewrwilson.com/assets/img/blog/laser-cut-name-badge/laser-badge-social-media-share.jpg
   type: article
-  url: #https://drewrwilson.com/blog/screenprinting-with-baby-oil/
+  url: https://drewrwilson.com/blog/overengineering-a-name-tag/
 categories:
 - blog
 ---
 
-# Laser cut name tag with vinyl lettering
+# The Over-Engineered Name Tag
 
-*I used CAD software to design a name-tag based on our logo and then used an $18,000 laser-cutter and a vinyl cutter to make 7 over-engineered name-tags, so people can find us organizers during the New England VegFest. Below are some photos & notes on how I made these name tags.*
+*Using CAD software, an $18,000 laser-cutter and a vinyl cutter, I made a handful of name tags for organizers of the New England VegFest to wear during the event. Here are photos & notes on how I made them*
 
-In 2009, I founded [New England VegFest](https://NewEnglandVegFest.com), an annual vegetarian food festival in Worcester, Massachusetts. For 7 years it has been run entirely by volunteers. The organizing team is made up of 7 volunteers who meet weekly for the 8 months leading up to the festival, we recruit exhibitors, sell sponsorships, put up posters, and promote the event. When the day of the festival arrives, each of the 7 members of the organizing team play a crucial role directing the event. We check-in the exhibitors and tell them where to set up, we coordinate volunteers' schedules, manage the cooking demos & speakers, sell merch & books, introduce the speakers, etc, etc. When something goes wrong or when something catches on fire--which happens sometimes--people need to be able to easily find an organizer right away to solve the problem. But we're all volunteers, so it's kind of hard to find an organier versus one the hundred volunteers. Organizers wear a different color shirt so we stick out, but even so people sometimes walk right by one of us when they're looking for help. So I made some name-tags.
+**Quick background:** In 2009, I founded [New England VegFest](https://NewEnglandVegFest.com), an annual vegetarian food festival in Worcester, Massachusetts. The event started small but over the years it has grown to have 10,000 attendees, 140 exhibitors and 100+ volunteers. The organizing team is made up of six people and in the months leading up to the festival, organizers recruit exhibitors, solicit donations, sell sponsorships, put up posters, coordinate volunteers, and promote the event. On the day of the event, each organizer plays a crucial role directing the event, checking-in exhibitors, coordinating volunteers, running the cooking demos, introducing the presenters, selling merch & books, and so on.
 
-Below is a step-by-step guide on how I used a laser-cutter and vinyl cutter to make these nice little name tags.
+![](/assets/img/new-england-vegfest-sticker-sm.jpg)
 
+Things go wrong--something breaks, someone forgets a permit, something catches on fire. When something goes wrong, people need to find an organizer to help them solve the problem. But at a packed event with thousands of attendees, finding one of the six organizers can be difficult. So I made name-tags. Giant, colorful name tags. Using a laser cutter. And using a vinyl cutter.
 
-# Materials:
+Below are photos and step-by-step notes on the design and production process for these nice little badges.
+
+<hr>
+
+# How to make name tags with a laser cutter & vinyl cutter
+
+## Materials
 
  * Colored Cardboard - I found some nice scraps of blue cardboard that came from the dumpster at an architect's office
  * Sheet of vinyl sticker paper - I used white
  * Transfer tape - masking tape will do
+ * A safety pin - one for each badge
 
-# Tools
+## Tools
 
- * Laser cutter - I used an Epilog 30W
- * Vinyl cutter - I used a Roland plotter
- * Exacto knife, tweezers or dental instruments
+ * Laser cutter - I used a 30 Watt [Epilog Laser](https://www.epiloglaser.com/)
+ * Vinyl cutter - I used a [Roland GS-24 Plotter](http://amzn.to/1p1Xudw)
+ * Hot glue gun
+ * X-Acto knife, tweezers or dental instruments
  * Cutting pad (optional, but real nice)
 
-# Step-by-step notes
+# Step-by-Step Notes
 
-The goal for this project is to make a big, bright name tag that stands out. The design of the name tag needs to fit with the rest of the branding of the event. The general idea is to laser cut a fun shape, paste on some vinyl lettering that identify someone as an organizer, and then attach some kind of fastener to the back of it so someone can attach it to their shirt.
+**The Goal:** We're making a big, bright name tag that stands out. The design should match the branding for the New England VegFest. The general idea is to use a laser to cut a fun shape, paste on some vinyl lettering that identify someone as an organizer, and then attach some kind of fastener to the back of the badge so someone can attach it to their shirt.
 
-## Step 1: Design it
+## Step 1: Design It
 
-The logo for the event has these four fun vegetable shapes as part of it. For the shape of the nametag, we'll use the tomato from the logo. Hopefully the shape will stick out and subtly communicate a connection with the event's branding and bestow some sense of legitimacy to the person wearing it. Yeah, I have high hopes for this name tag. It's a symbol of power.
+The logo for the festival has four fruit & vegetable shapes as part of it, so for the shape of the nametag, we'll use the tomato from the logo. Hopefully the shape will stick out and subtly communicate a connection with the event's branding and give some kind of legitimacy to the person wearing it. Yeah, I have high hopes for this name tag. It's a symbol of power.
 
-**Why the tomato?** Out of the four vegetables in the logo, the tomato has the largest internal area. This provides a little more room to squeeze in some text. The font is Open Sans, which matches the font that we use in other branding for the event.
+**Why the tomato?** Out of the four vegetables in the logo, the tomato has the largest internal area. This provides a little more room to squeeze in text. The font is Open Sans, which is easy to read from far away and it matches the font used in the other design for the event.
 
-Here's is the design that I drew in Illustrator:
+Here's is the design that I drew in Inkscape:
 
-![](drewrwilson.github.io/assets/img/blog/laser-cut-name-badge/12-design.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/12-design.sm.jpg)
 
-The plan is to laser cut the shape, cut out the text in vinyl, place the text on the shape and then have an organizer write their name on the name-tag with a marker.
+The plan is to laser cut the shape, then cut out the text separately as a vinyl sticker, place the text on the shape, and then have an organizer write their name on the name-tag with a marker.
 
-## Step 2: Laser-cut the shape
+## Step 2: Laser-Cut The Shape
 
-There are two ways that you can use a laser cutter; You can etch or you can cut. For this design we are only cutting and not doing any etching. Cutting on a laser is uses vectors images, etching can be bitmap images. It's not important to know the difference for the sake of this project, but the key part is that my image needed to be in the format of a vector image. When I exported it from Illustrator I saved the file as an SVG.
+There are two ways that you can use a laser cutter: etching or cutting material. For this design we are only cutting and not doing any etching. Cutting on a laser uses vectors images, etching can be bitmap images. It's not so important to know the difference for the sake of this project, but the key part is that the design needs to be in the format of a vector image. Here is [the SVG vector image for the design](/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
 
-![](/assets/img/blog/laser-cut-name-badge/2-cutting.sm.jpg)
-![](/assets/img/blog/laser-cut-name-badge/3-cutting.sm.jpg)
+[![](/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)](/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
 
-*!!SVG file of the design*
-![](drewrwilson.github.io/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
+**Configuring the laser:** The epilog laser that I'm using is connected to a computer that uses Corel Draw and the Epilog print driver, so I imported my SVG file to Corel Draw. For the Epilog print driver to know which lines are intended to be cuts, you need to set the stroke width on your cut lines to "hairline". Select the shape in the design and in the stroke toolbar, set the width to "hairline". To keep it simple, I just deleted the text from the design since we'll making that separately on the vinyl machine.
 
-
-The laser that I used for this project uses Corel Draw and the Epilog print driver, so I imported my SVG file. In order for the Epilog print driver to know which lines are intended to be cuts, you need to set the stroke width on your cut lines to "hairline". Select the shape in the design and in the toolbar above, select the stroke width. To keep it simple, I just removed my text from the design since we'll making that on the vinyl machine. I just deleted the text from the file for now.
-
-*!!Screenshot of epilog laser printer dialog*
-
-These are settings that I used to cut the cardboard:
+The strength of the laser is set by three variables: power, speed and frequency. These are settings that I used to cut the cardboard:
 
  * **Power:** 25%
  * **Speed:** 75%
  * **Frequency:** 500Hz
 
-*!!Video of laser cutting*
+Now it's time to print and run the laser.
 
-After the laser is set up and the file is prepared, it's time to print and run the laser. I ran a couple of test cuts to see what size name tag I wanted. In the end, I decided on aroud 5.5" wide.
+![](/assets/img/blog/laser-cut-name-badge/3-cutting.sm.jpg)
 
-*!!photo of laser cut pieces*
-![](/assets/img/blog/laser-cut-name-badge/5-cut.sm.jpg)
+I ran a couple of test cuts to see how big it needed to be for the text to be legible. Around 5.5" wide came out best.
+
 ![](/assets/img/blog/laser-cut-name-badge/6-cut.sm.jpg)
-## Step 3: Vinyl cut the text
-![](/assets/img/blog/laser-cut-name-badge/7-text.sm.jpg)
-## Step 4: Add the vinyl to the name tag
-![](/assets/img/blog/laser-cut-name-badge/8-text.sm.jpg)
-![](/assets/img/blog/laser-cut-name-badge/9-text.sm.jpg)
-## Step 5: Add a pin to the back
 
-## Wear it
-![](drewrwilson.github.io/assets/img/blog/laser-cut-name-badge/16-final.sm.jpg)
+## Step 3: Vinyl cut the text
+
+![](/assets/img/blog/laser-cut-name-badge/1-lasercutter.sm.jpg)
+
+![](/assets/img/blog/laser-cut-name-badge/7-text.sm.jpg)
+
+## Step 4: Weed the vinyl
+
+## Step 5: Add the vinyl to the name tag
+
+![](/assets/img/blog/laser-cut-name-badge/8-text.sm.jpg)
+
+## Step 6: Add a pin to the back
+
+
+## Step 7: Write your name on it
+
+<div class="text-center">
+<video controls>
+  <source src="/assets/img/blog/laser-cut-name-badge/laser-cut-name-tag.webm" type="video/webm">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+
+
+## Now Put It On Your Shirt
+
+![](/assets/img/blog/laser-cut-name-badge/16-final.sm.jpg)
+
+Now you're an organizer
