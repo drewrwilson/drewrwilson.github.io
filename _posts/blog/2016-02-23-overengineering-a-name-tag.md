@@ -49,7 +49,7 @@ The logo for the event has these four fun vegetable shapes as part of it. For th
 
 Here's is the design that I drew in Illustrator:
 
-![](/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
+![](drewrwilson.github.io/assets/img/blog/laser-cut-name-badge/12-design.sm.jpg)
 
 The plan is to laser cut the shape, cut out the text in vinyl, place the text on the shape and then have an organizer write their name on the name-tag with a marker.
 
@@ -59,8 +59,9 @@ There are two ways that you can use a laser cutter; You can etch or you can cut.
 
 ![](/assets/img/blog/laser-cut-name-badge/2-cutting.sm.jpg)
 ![](/assets/img/blog/laser-cut-name-badge/3-cutting.sm.jpg)
+
 *!!SVG file of the design*
-![](/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
+![](drewrwilson.github.io/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
 
 
 The laser that I used for this project uses Corel Draw and the Epilog print driver, so I imported my SVG file. In order for the Epilog print driver to know which lines are intended to be cuts, you need to set the stroke width on your cut lines to "hairline". Select the shape in the design and in the toolbar above, select the stroke width. To keep it simple, I just removed my text from the design since we'll making that on the vinyl machine. I just deleted the text from the file for now.
@@ -88,3 +89,4 @@ After the laser is set up and the file is prepared, it's time to print and run t
 ## Step 5: Add a pin to the back
 
 ## Wear it
+![](drewrwilson.github.io/assets/img/blog/laser-cut-name-badge/16-final.sm.jpg)
