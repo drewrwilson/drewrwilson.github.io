@@ -10,7 +10,7 @@ categories:
 
 ## Laser-cutting Stencils, Screen-printing, CNC Wood Block Printing
 
-*[MozFest](https://2015.mozillafestival.org/) is Mozilla's huge annual participatory festival & conference about the future of the open web. It's a clusterfuck of creativity, activism and geekiness. This year MozFest is happening on **November 6-8, 2015** in London. Below is a quick description of one of two sessions that I'll be running during the festival. Also check out my other session: [Using Digital Fabrication to Make DIY Activist Gear](blog/day-of-action-webapp-mozfest-2015/)*
+*[MozFest](https://2015.mozillafestival.org/) is Mozilla's huge annual participatory festival & conference about the future of the open web. It's a clusterfuck of creativity, activism and geekiness. This year MozFest is happening on **November 6-8, 2015** in London. Below is a quick description of one of two sessions that I'll be running during the festival. Also check out my other session: [Day of Action: Web App for Decentralized Collective Action](blog/day-of-action-webapp-mozfest-2015/)*
 
 <div class="text-center">
 
