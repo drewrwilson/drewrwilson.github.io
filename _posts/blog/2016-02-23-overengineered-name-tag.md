@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: blog_post_focus
 title: "How to make name tags with a laser cutter & vinyl cutter"
 thumbnail: /blog/laser-cut-name-badge/laser-badge-thumbnail.jpg
