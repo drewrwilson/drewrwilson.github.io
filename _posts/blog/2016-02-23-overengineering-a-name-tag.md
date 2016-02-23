@@ -49,7 +49,7 @@ The logo for the event has these four fun vegetable shapes as part of it. For th
 
 Here's is the design that I drew in Illustrator:
 
-![](/assets/img/blog/low-res/hello-i-am-an-organizer.svg)
+![](/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
 
 The plan is to laser cut the shape, cut out the text in vinyl, place the text on the shape and then have an organizer write their name on the name-tag with a marker.
 
@@ -57,10 +57,10 @@ The plan is to laser cut the shape, cut out the text in vinyl, place the text on
 
 There are two ways that you can use a laser cutter; You can etch or you can cut. For this design we are only cutting and not doing any etching. Cutting on a laser is uses vectors images, etching can be bitmap images. It's not important to know the difference for the sake of this project, but the key part is that my image needed to be in the format of a vector image. When I exported it from Illustrator I saved the file as an SVG.
 
-![](/assets/img/blog/low-res/2-cutting.sm.jpg)
-![](/assets/img/blog/low-res/3-cutting.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/2-cutting.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/3-cutting.sm.jpg)
 *!!SVG file of the design*
-![](/assets/img/blog/low-res/hello-i-am-an-organizer.svg)
+![](/assets/img/blog/laser-cut-name-badge/hello-i-am-an-organizer.svg)
 
 
 The laser that I used for this project uses Corel Draw and the Epilog print driver, so I imported my SVG file. In order for the Epilog print driver to know which lines are intended to be cuts, you need to set the stroke width on your cut lines to "hairline". Select the shape in the design and in the toolbar above, select the stroke width. To keep it simple, I just removed my text from the design since we'll making that on the vinyl machine. I just deleted the text from the file for now.
@@ -78,13 +78,13 @@ These are settings that I used to cut the cardboard:
 After the laser is set up and the file is prepared, it's time to print and run the laser. I ran a couple of test cuts to see what size name tag I wanted. In the end, I decided on aroud 5.5" wide.
 
 *!!photo of laser cut pieces*
-![](/assets/img/blog/low-res/5-cut.sm.jpg)
-![](/assets/img/blog/low-res/6-cut.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/5-cut.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/6-cut.sm.jpg)
 ## Step 3: Vinyl cut the text
-![](/assets/img/blog/low-res/7-text.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/7-text.sm.jpg)
 ## Step 4: Add the vinyl to the name tag
-![](/assets/img/blog/low-res/8-text.sm.jpg)
-![](/assets/img/blog/low-res/9-text.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/8-text.sm.jpg)
+![](/assets/img/blog/laser-cut-name-badge/9-text.sm.jpg)
 ## Step 5: Add a pin to the back
 
 ## Wear it
