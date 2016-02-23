@@ -22,5 +22,12 @@
 }
 body {
   font-size: 1.2em;
-  font-family: 'Antic Didone', serif;
+  color: rgba(0, 0, 0, 0.8);
+  font-family: Georgia, Cambria, 'Times New Roman', Times, serif;
+  line-height: 1.8em;
+}
+body h1, body h2, body h3, body h4 {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+  letter-spacing: -0.04em;
+  line-height: 1.15em;
 }
