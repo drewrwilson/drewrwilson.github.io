@@ -1,7 +1,7 @@
 ---
 published: true
 layout: blog_post_focus
-title: "The Over-Engineered Name Tag – How to make name tags with a laser cutter & vinyl cutter"
+title: "The Over-Engineered Name Tag – How I made name tags with a laser cutter & vinyl cutter"
 thumbnail: /blog/laser-cut-name-badge/laser-badge-thumbnail.jpg
 tags: [diy, art, fabacademy]
 fabcategory: project #options: project or writing
