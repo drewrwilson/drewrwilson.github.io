@@ -12,6 +12,12 @@
     <meta property="og:url" content="{{page.og.url}}">
     <meta property="og:description" content="{{page.teaser}}">
 
+    <meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="{{page.title}}">
+		<meta name="twitter:description" content="{{page.teaser}}">
+		<meta name="twitter:image" content="{{page.og.image}}">
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}{{site.img_dir}}favicon.ico">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
@@ -27,7 +33,7 @@
     <div class="image-wrap">
       <div class="header-img" style="background:url(/assets/img/blog/{{page.headerimg}}) no-repeat center center; background-size: cover;">
         {% if page.overlaytitle %}
-        <div class="title-etc" {% if page.overlaycolor %}style="color: {{page.overlaycolor}}"{% endif %}>  
+        <div class="title-etc" {% if page.overlaycolor %}style="color: {{page.overlaycolor}}"{% endif %}>
           <h1>
             {{page.title}}
           </h1>
