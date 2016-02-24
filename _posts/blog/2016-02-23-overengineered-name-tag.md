@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: blog_post_focus
 title: "The Over-Engineered Name Tag – How to make name tags with a laser cutter & vinyl cutter"
 thumbnail: /blog/laser-cut-name-badge/laser-badge-thumbnail.jpg
 tags: [diy, art, fabacademy]
+fabcategory: project #options: project or writing
 teaser: "Here's how I laser cut a name tag"
 headerimg: laser-cut-name-badge/00-header.jpg
 overlaytitle: false
@@ -14,6 +15,7 @@ og:
   url: https://drewrwilson.com/blog/overengineering-a-name-tag/
 categories:
 - blog
+
 ---
 
 # The Over-Engineered Name Tag

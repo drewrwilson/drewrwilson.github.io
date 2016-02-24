@@ -3,6 +3,7 @@ layout: blog_post_alt
 title: FabAcademy Video Podcast
 thumbnail: blog/fab-academy-podcast-thumbnail.jpg
 tags: [fabacademy]
+fabcategory: writing #options: project or writing
 teaser: "I wrote code to publish the FabAcademy 2016 lectures as video podcast. Here's how it works."
 categories:
 - blog

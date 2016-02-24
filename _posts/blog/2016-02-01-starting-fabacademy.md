@@ -3,6 +3,7 @@ layout: blog_post_alt
 title: I want to learn how to make everything
 thumbnail: blog/fab-academy-thumbnail.jpg
 tags: [fabacademy]
+fabcategory: writing #options: project or writing
 teaser: I'm taking a five-month course on digital fabrication, called FabAcademy. Each week I'm making a new project.
 categories:
 - blog
