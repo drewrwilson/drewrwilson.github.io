@@ -140,4 +140,4 @@ Ok, now you're officially an organizer.
 
 ***Made during FabAcademy:** I made this badge as part of [FabAcademy](https://drewrwilson.com/fabacademy/), a five-month course on digital fabrication. I'm taking this course because [I want to learn how to make everything](https://drewrwilson.com/blog/starting-fabacademy). You can check out [other projects, photos and writing from my time doing FabAcademy](https://drewrwilson.com/fabacademy/)*
 
-*And oh yeah please also come to [New England VegFest](https://NewEnglandVegFest.com), it's on May 1, 2016 at the DCU Center in Worcester, MA. It's fun. You can find me there, wearing this badge*
+*And oh yeah please also come to [New England VegFest](https://NewEnglandVegFest.com), it's on May 1, 2016 at the DCU Center in Worcester, MA. It's fun. You can find me there. I'll be wearing this badge*
