@@ -5,7 +5,7 @@ title: "The Over-Engineered Name Tag – How to make name tags with a laser cutt
 thumbnail: /blog/laser-cut-name-badge/laser-badge-thumbnail.jpg
 tags: [diy, art, fabacademy]
 fabcategory: project #options: project or writing
-teaser: "Here's how I laser cut a name tag"
+teaser: "Here's how I laser cut a name tag. Made during FabAcademy 2016"
 headerimg: laser-cut-name-badge/00-header.jpg
 overlaytitle: false
 overlaycolor: "rgba(0,0,0,0.8)"
