@@ -96,6 +96,8 @@ Just like the laser, the vinyl cutter needs a vector graphic. I removed the toma
 * **Pressure:** 100gf (It's an older blade; Usually 70gf will work fine)
 * **Speed:** 10cm/s
 
+![](/assets/img/blog/laser-cut-name-badge/15-cut.sm.jpg)
+
 ## Step 4: Weed the vinyl
 
 The machine cuts the vinyl but you still need to remove the negative space in your design. The process of removing the unwanted pieces of vinyl is called "weeding". You can use a few different kinds of tools for this, like a pair of tweezers or dental tools. I like to use an X-acto knife because you can also use it to add additional cuts while you're working.
