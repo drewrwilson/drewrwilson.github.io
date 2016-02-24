@@ -34,6 +34,8 @@ Below are photos and step-by-step notes on the design and production process for
 
 # How to make name tags with a laser cutter & vinyl cutter
 
+![](/assets/img/blog/laser-cut-name-badge/17-just-badge.sm.jpg)
+
 ## Materials
 
  * Colored Cardboard - I found some nice scraps of blue cardboard that came from the dumpster at an architect's office
