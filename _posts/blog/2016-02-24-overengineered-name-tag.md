@@ -20,7 +20,7 @@ categories:
 
 # The Over-Engineered Name Tag
 
-*Using CAD software, an $18,000 laser-cutter and a vinyl cutter, I made a handful of name tags for organizers of the New England VegFest. Here are photos & notes on how I made them*
+*Using CAD software, an $18,000 laser-cutter and a vinyl cutter, I made a handful of name tags for organizers of the New England VegFest. Here are photos & notes on how I made them so... uhh... so you could do it too*
 
 **Quick background:** In 2009, I founded [New England VegFest](https://NewEnglandVegFest.com), an annual vegetarian food festival in Worcester, Massachusetts. The event started small but over the years it has grown to have 10,000 attendees, 140 exhibitors and 100+ volunteers. The organizing team is made up of six people who recruit exhibitors, solicit donations, sell sponsorships, put up posters, coordinate volunteers, and promote the event. On the day of the festival, each organizer plays a crucial role directing the event, checking-in exhibitors, coordinating volunteers, running the cooking demos, introducing the presenters, selling merch & books, and so on.
 
