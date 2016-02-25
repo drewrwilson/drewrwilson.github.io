@@ -3,13 +3,13 @@ layout: blog_post
 title: Protecting the modern public square
 thumbnail: public-square.png
 tags: [tech, activism]
-teaser: What is the free and open web? Why is it worth protecting? 
+teaser: What is the free and open web? Why is it worth protecting?
 images:
 -
 categories:
 - blog
 ---
-*I recently became a Mozilla/Ford open web fellow. During the first week of the program, I met the 5 other fellows and we talked a lot about why we're doing this and what it means to defend the free and open internet. One thing we talked about quite a bit was the questions: What is the open web? And what does it mean to defend the openness of the web? This is my reflection on those questions.*
+*I recently became a [Ford-Mozilla Open Web Fellow](https://advocacy.mozilla.org/open-web-fellows/fellows). During the first week of the program, I met the 5 other fellows. We talked about quite a bit was these questions: What is the open web? And what does it mean to defend the openness of the web? This is my reflection on those questions.*
 
 The Internet is the modern day public square--it's where we connect with each other, it's where we encounter new ideas, where we buy and sell things and where we communicate. The Internet is the public place where we gather to live our public lives. It's a beautiful thing, rich with creativity, culture and community. And like a public square, it’s wild and chaotic. The web makes us engage with new ideas that challenge us to think differently. The free and open web is why you know the names Mike Brown, Eric Garner and #BlackLivesMatter. And it’s also the reason why you can bounce your head along when you hear "Gangnam Style". The web is the wild marketplace that we all walk through every day. The web is where we find our favorite new songs, where we engage with challenging new ideas and where we add teeth to our political thoughts by organizing social movements. But the Internet is under attack by people who just do not understand it.
 
