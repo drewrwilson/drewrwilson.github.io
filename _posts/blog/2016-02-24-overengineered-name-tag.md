@@ -1,11 +1,11 @@
 ---
 published: true
 layout: blog_post_focus
-title: "The Incredibly Over-Engineered Name Tag – How I made name tags with a laser cutter & vinyl cutter"
+title: "The Incredibly Over-Engineered Name Tag – How I made a name tag with a laser cutter & vinyl cutter"
 thumbnail: /blog/laser-cut-name-badge/laser-badge-thumbnail.jpg
 tags: [diy, art, fabacademy]
 fabcategory: project #options: project or writing
-teaser: "Here's how I laser cut a name tag. Made during FabAcademy 2016"
+teaser: "Here's how I made a name tag with a laser cutter and a vinyl cutter. Made during FabAcademy 2016"
 headerimg: laser-cut-name-badge/00-header.jpg
 overlaytitle: false
 overlaycolor: "rgba(0,0,0,0.8)"
