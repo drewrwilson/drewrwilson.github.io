@@ -1,7 +1,7 @@
 ---
 published: true
 layout: blog_post_focus
-title: "The Over-Engineered Name Tag – How I made name tags with a laser cutter & vinyl cutter"
+title: "The Incredibly Over-Engineered Name Tag – How I made name tags with a laser cutter & vinyl cutter"
 thumbnail: /blog/laser-cut-name-badge/laser-badge-thumbnail.jpg
 tags: [diy, art, fabacademy]
 fabcategory: project #options: project or writing
@@ -18,7 +18,7 @@ categories:
 
 ---
 
-# The Over-Engineered Name Tag
+# The Incredibly Over-Engineered Name Tag
 
 *Using CAD software, an $18,000 laser-cutter and a vinyl cutter, I made a handful of name tags for organizers of the New England VegFest. Here are photos & notes on how I made them so... uhh... so you could do it too*
 
