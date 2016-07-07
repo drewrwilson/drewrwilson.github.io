@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: blog_post_focus
-title: "Becoming a Public Interest Computer Scientist – Video Presentation"
+title: "Becoming a Public Interest Computer Scientist – Video"
 thumbnail: /blog/becoming-a-public-interest-computer-scientist/ford-presentation-2016-thumbnail.jpg
 tags: [tech, activism]
 teaser: "A brief reflection on becoming a public interest computer scientist. Video of my presentation at the Ford Foundation in May 2016."
