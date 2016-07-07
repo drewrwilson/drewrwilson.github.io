@@ -22,7 +22,7 @@ categories:
 
 ## Looking back on my experience as a Ford-Mozilla Open Web Fellow
 
-In 2015 and 2016, I was an [Open Web Fellow](https://advocacy.mozilla.org/) with the Ford Foundation and Mozilla. Over 10 months, I worked on the [Internet 2016 campaign](/projects/internet2016), created [NetPosi,  a podcast about activism & technology](https://netposi.com), curated a list of [digital tools for activism](https://github.com/drewrwilson/toolsforactivism), and went to a lot of conferences.
+In 2015 and 2016, I was an [Open Web Fellow](https://advocacy.mozilla.org/) with the Ford Foundation and Mozilla. Over 10 months, I worked on the [Internet 2016 campaign](/projects/internet2016) for [Free Press](https://freepress.net), created [NetPosi,  a podcast about activism & technology](https://netposi.com), curated a list of [digital tools for activism](https://github.com/drewrwilson/toolsforactivism), and went to a lot of conferences.
 
 To wrap up the program, I gave a presentation at Ford Foundation's office in New York about my path to becoming a public interest computer scientist. Check out the video below.
 
