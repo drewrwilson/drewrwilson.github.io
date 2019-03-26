@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
 title: New England VegFest
-description: "Annual vegetarian festival in Worcester, MA. 7,000 attendees, 120 exhibitors, 200 volunteers."
+description: "Annual vegetarian festival in Worcester, MA. 14,000 attendees, 150+ exhibitors, 200 volunteers."
 link: https://NewEnglandVegFest.com
 images:
 - nevegfest/2015-04-26-VEGFEST-mcgovern.jpg
@@ -22,17 +22,19 @@ featured: true
 
 [New England VegFest](https://NewEnglandVegFest.com) is an annual vegetarian food festival with over 10,000 attendees, 140 vendors, and run entirely by volunteers.
 
-I founded [VegWorcester](http://VegWorcester.com) in 2006, the organization that presents the festival. In 2010 I launched the [New England VegFest](https://NewEnglandVegFest.com)  and I remain involved as a lead organizer and president of the non-profit organization.
+I founded VegFest, Inc. in 2006, the 501c3 nonprofit organization that presents the festival. In 2010 I launched the [New England VegFest](https://NewEnglandVegFest.com). I remain involved as an organizer and as president of the non-profit organization.
 
-## April 26, 2015
+## Ten Year Anniversary April 2019
 
-This year thousands and thousands of attendees filled the convention center in Worcester, MA to sample the best vegetarian and vegan foods from across New England.
+This year 12,000-15,000 attendees will fill the convention center in Worcester, MA to sample the best vegetarian and vegan foods from across New England. With 150+ exhibitors and dozens of sponsors, this 10 year anniversary is set to be a hit.
 
-This free event is funded through event sponsorship, bake sales, and individual donations. In 2014, the Mayor endorsed the festival and officially proclaimed the following week to be VegWeek. In 2015 Congressman Jim McGovern joined us and pledged to support us in the next year of organizing.
+This free event is funded through event sponsorship, grassroots fundraising, bake sales, and individual donations. In 2014, the Mayor endorsed the festival and officially proclaimed the following week to be VegWeek. In 2015 Congressman Jim McGovern joined us and pledged to support us in the next year of organizing.
 
 ## Links
 
  * [NewEnglandVegFest.com](https://NewEnglandVegFest.com)
- * [New England VegFest 2015 facebook event](https://www.facebook.com/events/355366494646694/)
+ * [VegFest Inc on facebook](https://www.facebook.com/VegFest-1657703931152886/)
+  * [New England VegFest on facebook](https://www.facebook.com/newenglandvegfest/)
  * VegWorcester on twitter: [@VegWorcester](https://twitter.com/VegWorcester)
+ * New England VegFest on instagram: [@VegWorcester](https://instagram.com/nevegfest)
  * Presented by [VegWorcester.com](http://VegWorcester.com)
